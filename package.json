@@ -1,0 +1,20 @@
+{
+  "name": "@lightcode/node-red-utils",
+  "version": "0.1.0",
+  "description": "Utils for node-red @lightcode packages",
+  "repository": "git@github.com:npm-lightcode/node-red-utils",
+  "author": "Nathan DELHAYE <the@red.cat>",
+  "license": "AGPL-3.0-only",
+  "keywords": [
+    "node-red",
+    "utils",
+    "lightcode"
+  ],
+  "scripts": {
+    "generate-doc": "jsdoc2md src/*.js > doc/doc.md"
+  },
+  "main": "./src/utils.js",
+  "devDependencies": {
+    "jsdoc-to-markdown": "^8.0.0"
+  }
+}
