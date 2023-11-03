@@ -1,5 +1,5 @@
 /**
- * @module Node red utils for @lightcode npm modules, server side
+ * @module Node red utils for @npm-lightcode npm modules, server side
  * */
 
 /**

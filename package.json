@@ -1,7 +1,7 @@
 {
   "name": "@lightcode/node-red-utils",
   "version": "0.1.0",
-  "description": "Utils for node-red @lightcode packages",
+  "description": "Utils for node-red @npm-lightcode packages",
   "repository": "git@github.com:npm-lightcode/node-red-utils",
   "author": "Nathan DELHAYE <the@red.cat>",
   "license": "AGPL-3.0-only",

@@ -1,6 +1,6 @@
 ## Decription
 
-Utils for node-red @lightcode packages
+Utils for node-red @npm-lightcode packages
 
 ## Usage
 
